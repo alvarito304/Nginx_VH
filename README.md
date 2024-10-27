@@ -1,4 +1,4 @@
-# Tutorial Apache Virtual Host
+# Tutorial Nginx Servers
 ## Estructura de directorios
 
 - creamos el directorio `websites`
